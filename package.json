@@ -1,0 +1,23 @@
+{
+  "name": "pagefeedback",
+  "version": "1.0.0",
+  "description": "per page feedback collection from feedback web component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagov/pagefeedback.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cagov/pagefeedback/issues"
+  },
+  "homepage": "https://github.com/cagov/pagefeedback#readme",
+  "dependencies": {
+    "@azure/cosmos": "^3.11.5"
+  }
+}
