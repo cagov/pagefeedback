@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "per page feedback collection from feedback web component",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cagov/pagefeedback.git"
